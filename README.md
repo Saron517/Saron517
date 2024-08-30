@@ -3,13 +3,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saron517&label=Profile%20views&color=0e75b6&style=flat" alt="saron517" /> </p>
 
-- 🔭 I’m currently working on **senior project design**
 
 - 🌱 I’m currently learning **software engineering, web development**
 
 - 📫 How to reach me **saronmelesse2018@gmail.com**
 
-- ⚡ Fun fact **I came from a country that has a different calander which is 7 years behind.**
+- ⚡ Fun fact **I came from a country that has a different calendar which is 7 years behind.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
