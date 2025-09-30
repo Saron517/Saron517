@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Saron Semma Melesse</h1>
-<h3 align="center">“I’m a first-generation computer science graduate from Calvin University with experience building software tools, dashboards, and APIs</h3>
+<h3 align="center">“A first-generation computer science graduate from Calvin University with experience building software tools, dashboards, and APIs</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saron517&label=Profile%20views&color=0e75b6&style=flat" alt="saron517" /> </p>
 
 
-- 🌱 I’m currently learning ****
+- 🌱 I’m currently learning **cloud computing with AWS and Azure, focusing on deployment and serverless architecture, along with AI and machine learning basics such as recommendation systems, automation, and frameworks like TensorFlow and PyTorch to apply AI in real-world projects.**
 
 - 📫 How to reach me **saronmelesse2018@gmail.com**
 
-- ⚡ Fun fact **I came from a country that has a different calendar which is 7 years behind.**
+- ⚡ Fun fact **I’ve studied and worked in different places — from Ethiopia to Dubai to the U.S. — and it’s given me a unique perspective on how technology can be applied across cultures.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
