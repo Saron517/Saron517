@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **saronmelesse2018@gmail.com**
 
-- ⚡ Fun fact **I’ve studied and worked in different places — from Ethiopia to Dubai to the U.S. — and it’s given me a unique perspective on how technology can be applied across cultures.**
+- ⚡ Fun fact **I’ve studied and worked in different places from Ethiopia to Dubai to the U.S. and it’s given me a unique perspective on how technology can be applied across cultures.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
