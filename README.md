@@ -1,10 +1,10 @@
-<h1 align="center">Hi 👋, I'm Saron Melesse</h1>
-<h3 align="center">An Ethiopian student majoring in Computer Science, Aspiring to be a Software Engineer, Technical Program Manager, Project Manager</h3>
+<h1 align="center">Hi 👋, I'm Saron Semma Melesse</h1>
+<h3 align="center">“I’m a first-generation computer science graduate from Calvin University with experience building software tools, dashboards, and APIs</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saron517&label=Profile%20views&color=0e75b6&style=flat" alt="saron517" /> </p>
 
 
-- 🌱 I’m currently learning **software engineering, web development**
+- 🌱 I’m currently learning ****
 
 - 📫 How to reach me **saronmelesse2018@gmail.com**
 
